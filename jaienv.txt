@@ -1,0 +1,52 @@
+# =========================================================
+# TELEGRAM BOT
+# =========================================================
+# @BotFather se lo (jaise: 1234567890:ABCdefGHIjklMNOpqrSTUvwxYZ)
+BOT_TOKEN=8837759499:AAFB5VhcAjrphBuFbkDw9u48HuGu7KV3UQ0
+
+# Bot ka username BINA @ ke (jaise: Aadi SMSBot)
+BOT_USERNAME=@AdityaXOTP_bot
+
+# =========================================================
+# SMS API (2oo9.cloud / stexsms)
+# =========================================================
+# mauthapi header value
+SMS_API_KEY=MFUWEAMZ87H
+
+# =========================================================
+# FORCE JOIN CHANNELS (Bot ko dono mein ADMIN banana zaroori hai)
+# =========================================================
+FORCE_CHANNEL_1_ID=@Aadixsms
+FORCE_CHANNEL_1_URL=https://t.me/Aadixsms
+FORCE_CHANNEL_1_NAME=Aadix SMS
+
+FORCE_CHANNEL_2_ID=@AadixOTP
+FORCE_CHANNEL_2_URL=https://t.me/AadixOTP
+FORCE_CHANNEL_2_NAME=Aadix OTP
+
+# =========================================================
+# BUTTON LINKS
+# =========================================================
+# OTP message ke OWNER button ke liye
+OWNER_URL=https://t.me/Aditya05712
+
+# OTP GROUP button ke liye (OTP group link)
+OTP_GROUP_URL=https://t.me/AadixOTP
+
+# PROXY → ADMIN button ke liye
+ADMIN_URL=https://t.me/Aditya05712
+
+# =========================================================
+# REFERRAL SETTINGS
+# =========================================================
+# Per refer USDT amount
+REFER_RATE=0.05
+
+# Kitne OTP receive karne ke baad referral complete hoga
+REFER_REQUIRED_OTPS=10
+
+OTP_GROUP_ID=@AadixOTP
+
+# Comma separated admin user IDs (apna Telegram ID daalein)
+# @userinfobot se apni ID milegi
+ADMIN_IDS=6103314569
